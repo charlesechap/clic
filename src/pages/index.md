@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Monsieur Pascal Gonzales
-image: https://ucarecdn.com/c9cb8da0-a959-4842-88da-d2378902cdc9/
+image: https://ucarecdn.com/8d1420a5-38f8-44c5-b36f-df69761c448d/
 heading: Engagez-moi
 subheading: Spécialiste marketing digital à Disneyland
 mainpitch:
@@ -17,33 +17,33 @@ description: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
   consectetur, adipisci velit...
 intro:
   blurbs:
-    - image: https://ucarecdn.com/eca1b62b-decd-4caf-8a75-be880a764d9d/
+    - image: https://ucarecdn.com/8d131060-8353-4aa5-9123-c0f645a70fa8/
       text: >
         Vivamus et dui id diam dictum feugiat ac a justo. Etiam sollicitudin
         hendrerit libero vel pellentesque. Nam dictum placerat nulla ut
         condimentum. Proin iaculis accumsan ante vel tincidunt. Cras pretium
         velit tortor, nec pharetra massa pellentesque a. Donec hendrerit augue
         vitae dolor molestie tincidunt.
-    - image: /img/coffee-gear.png
+    - image: https://ucarecdn.com/f6b6a37b-80c4-4a34-9a4d-671e79b93eab/
       text: >
         Duis non tincidunt mi. Pellentesque arcu risus, posuere sed dignissim
         sit amet, pretium sed arcu. Integer condimentum ex ut arcu euismod
         tincidunt. Morbi vitae velit diam. Pellentesque nulla erat, blandit
         vitae suscipit vel, commodo vulputate nisl.
-    - image: /img/tutorials.png
+    - image: https://ucarecdn.com/d7708806-f09c-46b7-9de6-e94c54a3dd3e/
       text: Pellentesque habitant morbi tristique senectus et netus et malesuada fames
         ac turpis egestas. Vestibulum molestie iaculis pulvinar. Ut aliquet
         justo ac volutpat sagittis. Aliquam vel eros dui. Cras ut condimentum
         odio, nec ullamcorper orci. Proin viverra justo vel aliquam euismod. Nam
         ac mi sit amet ex tempor tincidunt.
-    - image: /img/meeting-space.png
+    - image: https://ucarecdn.com/2ff13e5d-e3c3-49cd-877f-031ce915a2f1/
       text: >
         Sed felis arcu, dapibus vitae augue venenatis, egestas fringilla diam.
         Quisque lacinia massa in odio sagittis pharetra. Integer sit amet felis
         mattis, placerat est sit amet, luctus lacus. In quis vehicula ex.
         Phasellus venenatis elit risus, quis commodo lacus efficitur sit amet.
         Ut vulputate lobortis interdum.
-  heading: What we offer
+  heading: Lorem Ipsum
   description: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
     consectetur, adipisci velit...
 main:
