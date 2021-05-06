@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Monsieur Pascal Gonzales
-image: https://picsum.photos/1920/1280
-heading: Engagez-moi !
+image: https://ucarecdn.com/19db39c5-3c06-4022-9b2e-5df1ee89229a/
+heading: Engagez-moi
 subheading: Spécialiste marketing digital à Disneyland
 mainpitch:
   title: Lorem ipsum
@@ -17,7 +17,7 @@ description: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
   consectetur, adipisci velit...
 intro:
   blurbs:
-    - image: https://picsum.photos/600/400
+    - image: https://ucarecdn.com/c392ebf4-1017-4bde-b8ce-8115577cfb69/
       text: >
         Vivamus et dui id diam dictum feugiat ac a justo. Etiam sollicitudin
         hendrerit libero vel pellentesque. Nam dictum placerat nulla ut
