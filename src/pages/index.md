@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Monsieur Pascal Gonzales
-image: https://ucarecdn.com/19db39c5-3c06-4022-9b2e-5df1ee89229a/
+image: https://ucarecdn.com/c9cb8da0-a959-4842-88da-d2378902cdc9/
 heading: Engagez-moi
 subheading: Spécialiste marketing digital à Disneyland
 mainpitch:
@@ -17,7 +17,7 @@ description: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
   consectetur, adipisci velit...
 intro:
   blurbs:
-    - image: https://ucarecdn.com/c392ebf4-1017-4bde-b8ce-8115577cfb69/
+    - image: https://ucarecdn.com/eca1b62b-decd-4caf-8a75-be880a764d9d/
       text: >
         Vivamus et dui id diam dictum feugiat ac a justo. Etiam sollicitudin
         hendrerit libero vel pellentesque. Nam dictum placerat nulla ut
@@ -26,36 +26,36 @@ intro:
         vitae dolor molestie tincidunt.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Duis non tincidunt mi. Pellentesque arcu risus, posuere sed dignissim
+        sit amet, pretium sed arcu. Integer condimentum ex ut arcu euismod
+        tincidunt. Morbi vitae velit diam. Pellentesque nulla erat, blandit
+        vitae suscipit vel, commodo vulputate nisl.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+        ac turpis egestas. Vestibulum molestie iaculis pulvinar. Ut aliquet
+        justo ac volutpat sagittis. Aliquam vel eros dui. Cras ut condimentum
+        odio, nec ullamcorper orci. Proin viverra justo vel aliquam euismod. Nam
+        ac mi sit amet ex tempor tincidunt.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Sed felis arcu, dapibus vitae augue venenatis, egestas fringilla diam.
+        Quisque lacinia massa in odio sagittis pharetra. Integer sit amet felis
+        mattis, placerat est sit amet, luctus lacus. In quis vehicula ex.
+        Phasellus venenatis elit risus, quis commodo lacus efficitur sit amet.
+        Ut vulputate lobortis interdum.
   heading: What we offer
   description: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
     consectetur, adipisci velit...
 main:
-  heading: Great coffee with no compromises
+  heading: Donec condimentum dui dolor, sed.
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Sed felis arcu, dapibus vitae augue venenatis, egestas fringilla diam.
+    Quisque lacinia massa in odio sagittis pharetra. Integer sit amet felis
+    mattis, placerat est sit amet, luctus lacus. In quis vehicula ex. Phasellus
+    venenatis elit risus, quis commodo lacus efficitur sit amet. Ut vulputate
+    lobortis interdum.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Nam at ante at leo.
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
