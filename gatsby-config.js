@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Clic',
     description:
-      'Spécialiste marketing digital à Disneyland.',
+      'Spécialiste marketing digital à Disneyland',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
