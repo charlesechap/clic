@@ -56,11 +56,11 @@ main:
     lobortis interdum.
   image1:
     alt: Nam at ante at leo.
-    image: /img/products-grid3.jpg
+    image: https://ucarecdn.com/69da7364-b0f7-43b6-97be-279b293855a3/
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Integer pulvinar orci sem, at.
+    image: https://ucarecdn.com/07131d68-aaf4-4a9d-8b39-83c7072f5a55/
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Suspendisse consequat mi a nibh.
+    image: https://ucarecdn.com/7b7342ad-1f83-4c23-b802-bf957bd5abeb/
 ---
