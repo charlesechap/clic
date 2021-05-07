@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Monsieur Pascal Gonzales
-image: https://ucarecdn.com/8d1420a5-38f8-44c5-b36f-df69761c448d/
+title: Studio clic
+image: https://ucarecdn.com/f72cc102-b21c-4ea7-b8f2-1a3258a4c52c/
 heading: Engagez-moi
 subheading: Spécialiste marketing digital à Disneyland
 mainpitch:
