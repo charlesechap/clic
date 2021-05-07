@@ -3,7 +3,7 @@ templateKey: index-page
 title: Studio clic
 image: https://ucarecdn.com/f72cc102-b21c-4ea7-b8f2-1a3258a4c52c/
 heading: Engagez-moi
-subheading: Spécialiste marketing digital à Disneyland
+subheading: Integrated design
 mainpitch:
   title: Lorem ipsum
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
